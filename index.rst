@@ -8,4 +8,4 @@ The intention is to speed up the developer on-ramp to DeFi to make DeFi immediat
 
 .. raw:: html
 
-    <div style="font-size: 24px; margin-bottom: 24px"><a href="https://t.me/blockchain_uni" target="_blank">Come say hello 👋</a></div>
+    <div style="font-size: 24px; margin-bottom: 24px"><a href="https://discord.gg/hc9TAehk" target="_blank">Come say hello 👋</a></div>
