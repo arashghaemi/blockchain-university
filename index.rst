@@ -6,5 +6,6 @@ Blockchain University is a community driven instructional guide geared towards d
 
 The intention is to speed up the developer on-ramp to DeFi to make DeFi immediately accessible to as many developers as possible.
 
-`Come say hello 👋 <https://t.me/blockchain_uni>`_
-------------------------------------------------------
+.. raw:: html
+
+    <div style="font-size: 24px; margin-bottom: 24px"><a href="https://t.me/blockchain_uni" target="_blank">Come say hello 👋</a></div>

@@ -3,7 +3,7 @@ Brownie
 =======
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 0
 
     Overview <index.rst>
 
