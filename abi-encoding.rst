@@ -2,6 +2,8 @@
 ABI Encoding
 ============
 
+
+
 Method selectors
 ================
 Generating signature hashes
@@ -27,3 +29,8 @@ Event topics
 
 Constructor
 ===========
+
+References
+==========
+
+`Medium - What are ABI encoding functions in solidity <https://medium.com/@libertylocked/what-are-abi-encoding-functions-in-solidity-0-4-24-c1a90b5ddce8>`_
