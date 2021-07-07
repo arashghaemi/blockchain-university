@@ -119,8 +119,8 @@ Manually
 5. Extract the first (left most) 8 characters from the hash
 6. You should end up with ``095ea7b3``
 
-With solidity
-^^^^^^^^^^^^^
+Using solidity
+^^^^^^^^^^^^^^
 
 .. code-block:: python
 
