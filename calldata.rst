@@ -129,6 +129,8 @@ Using solidity
 Generating calldata
 ===================
 
+Method selectors by themselves are often not enough to generate transaction calldata. In order to generate calldata a user must concatenate ABI encoded input arguments to the method selector. Some methods for generating complete calldata are outlined below.
+
 Using ABI Hash Hex
 ------------------
 1. Go to https://abi.hashex.org
