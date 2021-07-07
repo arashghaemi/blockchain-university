@@ -98,7 +98,7 @@ Extracting method selectors from calldata
 Parsing method selector sig hashes
 ----------------------------------
 
-In some cases it's possible to parse method selector sighashes. Although hashing a method signature is a one way function there are free services available that scrape uploaded ABIs for relevant sig hashes and maintain a look-up-table database. One such service is ``Ethereum Signature Database``.
+In some cases it's possible to parse method selector sighashes. Although hashing a method signature is a one way function there are free services available that scrape uploaded ABIs for relevant sig hashes and maintain a look-up-table database. One such service is `Ethereum Signature Database <https://4byte.directory>`_.
 
 1. Go to https://www.4byte.directory/
 2. Enter a method selector sig hash
