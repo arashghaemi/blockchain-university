@@ -11,3 +11,5 @@ The intention is to speed up the developer on-ramp to DeFi to make DeFi immediat
 .. raw:: html
 
     <div style="font-size: 24px; margin-bottom: 24px"><a href="https://discord.gg/hc9TAehk" target="_blank">Come say hello 👋</a></div>
+
+Contributions welcome at: https://github.com/x48-crypto/blockchain-university
