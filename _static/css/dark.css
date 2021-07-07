@@ -203,3 +203,7 @@ pre {
 .wy-side-nav-search > .icon-home {
   color: #fcfcfc;
 }
+
+div[role="contentinfo"] {
+  display: none;
+}
