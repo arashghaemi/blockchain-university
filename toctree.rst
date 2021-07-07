@@ -77,6 +77,7 @@ Brownie
     contract-analysis.rst
     arbitrage.rst
     mev.rst
+    contract-bytecode.rst
     algo-stablecoins.rst
     flash-loans.rst
     byte-manipulation.rst
