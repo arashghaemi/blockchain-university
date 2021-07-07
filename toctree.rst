@@ -69,7 +69,7 @@ Brownie
     :maxdepth: 2
 
     contract-addresses.rst
-    method-signatures.rst
+    calldata.rst
     abi-encoding.rst
     call-types.rst
     storage-slots.rst
