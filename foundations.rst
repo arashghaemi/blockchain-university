@@ -1,12 +1,12 @@
-======
-Wallet
-======
+=======
+Wallets
+=======
 
-Basics
-======
+Foundations
+===========
 - A wallet is a piece of software that holds a user's funds
 - Every wallet can be referred to by a unique identifier called an "address"
-- An address looks like this: ``0x481140F916a4e64559694DB4d56D692CadC0326c``
+- An address looks like this: ``0x59b7a8eB6A30746A08a562FDE048c832E51A65dd``
 - An address is a hexadecimal representation of an account's location in block chain storage
 - Addresses are 20 bytes long (40 characters)
 - Wallets utilize public key cryptography
