@@ -27,7 +27,7 @@ def setup(sphinx):
 
 project = 'Blockchain University'
 copyright = ''
-author = 'x48'
+author = 'yearn'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'
