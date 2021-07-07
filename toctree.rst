@@ -12,7 +12,7 @@ Brownie
     :caption: Getting Started
     :maxdepth: 2
 
-    getting-started.rst
+    foundations.rst
 
 .. toctree::
     :caption: Level 1

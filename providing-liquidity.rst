@@ -14,6 +14,11 @@ Staking your LP position
 Claiming rewards
 ----------------
 
+Viewing your gains
+------------------
+
+Revert.finance
+
 Zapping out of an LP position
 -----------------------------
 

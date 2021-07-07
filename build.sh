@@ -1,2 +1,2 @@
-pip install -r requirements.txt
+rm -rf ./_build
 make html
