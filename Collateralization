@@ -1,5 +1,3 @@
-
-
 Collateralization is the process of putting up your crypto as a way to get loans in DeFi. 
 
 Collateral to secure a loan in traditional finance comes in the form of real estate, jewelry, stocks, or cars.
@@ -10,9 +8,10 @@ This incentivizes and holds the borrower accountable for repaying the debt. In D
 Because crypto markets are more volatile, most borrowers collateralize upwards of 300%+ to avoid liquidations.
 In traditional finance, everything is handled through a bank that acts as a trusted intermediary and decides whether or not you get a loan.
 
-In DeFi, everything is handled with smart contracts. The smart contracts monitor the ratio of Ccllateralization and take custody of the funds. 
+In DeFi, everything is handled with smart contracts. The smart contracts monitor the ratio of Collateralization and take custody of the funds. 
 
 Once you repay the loan, your crypto is also released back to you through smart contracts.
+
 Liquidation
 
 As crypto values fluctuate or depreciate, the collateralization ratio may fall below the minimum loan value. 
@@ -23,17 +22,20 @@ If a loan is below the Collateralization ratio, anyone can buy out the collatera
 
 Third-party agents are incentivized to monitor the loan state, and the market and collateral are offered at a discount to its market value. Market agents can perform a liquidation, selling the collateral, and repaying the loan with interest.
 
-
 Protocols
+
 Compound
 
 An interest rate protocol on Ethereum which allows developers to create secure, open financial applications.
+
 Cream
 
 A decentralized lending protocol that allows users to earn a yield on crypto assets. 
+
 Aave
 
 An open-source liquidity protocol for earning interest and borrowing assets.
+
 Maker
 
 An open-source lending protocol that mints the stablecoin Dai which is pegged to to the US dollar.
